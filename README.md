@@ -16,9 +16,14 @@
 ## 🖼️ Dashboard Preview
 
 <p align="center">
-  <img src="https://via.placeholder.com/900x450.png?text=Sales+Dashboard+Preview" alt="Dashboard Preview" width="90%">
+  <img src="dashboard/sales performance dashboard 1_page-0001.jpg  dashboard/sales performance dashboard 1_page-0002.jpg  dashboard/sales performance dashboard 1_page-0003.jpg" alt="Dashboard Preview" width="90%">
 </p>
-
+<p align="center">
+  <img src="dashboard/sales performance dashboard 1_page-0002.jpg" alt="Dashboard Preview" width="90%">
+</p
+  <p align="center">
+  <img src="dashboard/sales performance dashboard 1_page-0003.jpg" alt="Dashboard Preview" width="90%">
+</p
 ---
 
 ## 📌 Project Details
